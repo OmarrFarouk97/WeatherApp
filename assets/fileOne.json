@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 31.2497,
+    "lat": 30.0626
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "سماء صافية",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 300.57,
+    "feels_like": 302.24,
+    "temp_min": 300.05,
+    "temp_max": 300.57,
+    "pressure": 1007,
+    "humidity": 65
+  },
+  "visibility": 6000,
+  "wind": {
+    "speed": 0,
+    "deg": 0
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1661056536,
+  "sys": {
+    "type": 1,
+    "id": 2514,
+    "country": "EG",
+    "sunrise": 1661052346,
+    "sunset": 1661099461
+  },
+  "timezone": 7200,
+  "id": 360630,
+  "name": "القاهرة",
+  "cod": 200
+}
